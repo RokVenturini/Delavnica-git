@@ -1,1 +1,4 @@
 Napišimo nekaj
+
+AAAAAAAAAAAAAAAAAAAAAAA
+Dodamo nekaj na master branch
